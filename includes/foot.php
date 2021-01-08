@@ -1,1 +1,1 @@
-<script src="<?php echo dt_current_url_dir();  ?>/assets/vendors/prism/prism.js"></script>
+<script src="<?php echo DT_BASE_URL ?>/assets/vendors/prism/prism.js"></script>

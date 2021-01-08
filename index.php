@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title></title>
-    <?php include './includes/functions.php' ?>
+    <?php define('DT_BASE_URL', '/projects/documentation-template/'); // change this to refer to your project url ?>
 	<?php include './includes/head.php' ?>
 </head>
 <body>
