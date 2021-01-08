@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title></title>
+    <?php include './includes/functions.php' ?>
 	<?php include './includes/head.php' ?>
 </head>
 <body>
